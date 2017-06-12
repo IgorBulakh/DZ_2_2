@@ -1,0 +1,20 @@
+.one{
+	background: #ff0000;  /*колір заливки*/
+	width: 50px; /*ширина*/
+	height: 50px; /*висота*/
+	margin-bottom: 15px; /*відступ*/
+}
+
+.two {
+	background: #ffa500;  /*колір заливки*/
+	width: 100px; /*ширина*/
+	height: 50px; /*висота*/
+	margin-bottom: 15px; /*відступ*/
+}
+
+.three {
+	background: #0000ff;  /*колір заливки*/
+	width: 150px; /*ширина*/
+	height: 50px; /*висота*/
+	margin-bottom: 15px; /*відступ*/
+}
